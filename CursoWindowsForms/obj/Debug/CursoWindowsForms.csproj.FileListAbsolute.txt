@@ -1,0 +1,10 @@
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\Windows Forms Com C# Formularios, componente e eventos\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\Windows Forms Com C# Formularios, componente e eventos\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\Windows Forms Com C# Formularios, componente e eventos\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\Windows Forms Com C# Formularios, componente e eventos\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\Windows Forms Com C# Formularios, componente e eventos\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\Windows Forms Com C# Formularios, componente e eventos\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\Windows Forms Com C# Formularios, componente e eventos\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\Windows Forms Com C# Formularios, componente e eventos\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\Windows Forms Com C# Formularios, componente e eventos\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\Windows Forms Com C# Formularios, componente e eventos\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
